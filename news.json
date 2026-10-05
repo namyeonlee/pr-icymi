@@ -1,0 +1,817 @@
+{
+  "articles": [
+    {
+      "id": "2289b2c8d644755aa366",
+      "title": "The Scoop: California implements bill that would help fund local media",
+      "url": "https://www.prdaily.com/the-scoop-california-implements-bill-that-would-help-fund-local-media/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-05T14:26:04Z"
+    },
+    {
+      "id": "d6f62c87775820d1dc9a",
+      "title": "Gen Z wants ChatGPT: The fight comms has to referee",
+      "url": "https://www.prdaily.com/gen-z-wants-chatgpt-the-fight-comms-has-to-referee/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-05T10:00:38Z"
+    },
+    {
+      "id": "3ae9548033b08464599a",
+      "title": "Influencer marketing has an AI trust problem",
+      "url": "https://www.socialmediatoday.com/spons/influencer-marketing-has-an-ai-trust-problem/831579/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-05T09:00:00Z"
+    },
+    {
+      "id": "0588fe41dbfc94966983",
+      "title": "X launches updated video composer",
+      "url": "https://www.socialmediatoday.com/news/x-launches-updated-video-composer/832088/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-04T21:30:59Z"
+    },
+    {
+      "id": "def858a47338a5849aac",
+      "title": "Instagram tests read-only mode",
+      "url": "https://www.socialmediatoday.com/news/instagram-tests-read-only-mode/832087/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-04T21:27:24Z"
+    },
+    {
+      "id": "64438de2ba12ae3daf34",
+      "title": "Instagram adds AI songs to DMs",
+      "url": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-04T21:23:38Z"
+    },
+    {
+      "id": "e0f6eb9a23f3563e91a4",
+      "title": "Instagram adds Threads sharing sticker for Stories",
+      "url": "https://www.socialmediatoday.com/news/instagram-adds-threads-sharing-sticker-for-stories/832085/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-04T21:18:35Z"
+    },
+    {
+      "id": "06679b5dd2edfa4210fe",
+      "title": "Meta’s Muse AI collects private user data",
+      "url": "https://www.socialmediatoday.com/news/metas-muse-ai-collects-private-user-data/832084/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-04T21:06:51Z"
+    },
+    {
+      "id": "af2cb38571bedd16ca6f",
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-10-03T15:02:01Z"
+    },
+    {
+      "id": "0473fad4f768410fd2e3",
+      "title": "The Scoop: Amazon emphasizes transparency in memo as communities push back on data centers",
+      "url": "https://www.prdaily.com/the-scoop-amazon-emphasizes-transparency-in-memo-as-communities-push-back-on-data-centers/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-02T14:40:34Z"
+    },
+    {
+      "id": "063e6300e0300f3dd385",
+      "title": "Data storytelling: Turning social insights into a narrative your org acts on",
+      "url": "https://sproutsocial.com/insights/storytelling-with-data/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-10-02T13:00:32Z"
+    },
+    {
+      "id": "3a186981f5f5dbc8c8c0",
+      "title": "Here’s how to help employees make sense of change",
+      "url": "https://www.prdaily.com/heres-how-to-help-employees-make-sense-of-change/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-02T10:00:29Z"
+    },
+    {
+      "id": "3bb4d68972aeb2ae312a",
+      "title": "Concerns about social media’s negative impact are growing",
+      "url": "https://www.socialmediatoday.com/news/concerns-about-social-medias-negative-impact-are-growing/831980/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-01T22:33:07Z"
+    },
+    {
+      "id": "95f57ee1e19f6ddd6be9",
+      "title": "Meta’s Muse app surpasses 5M downloads and 3M weekly users",
+      "url": "https://www.socialmediatoday.com/news/metas-muse-app-surpasses-5m-downloads-and-3m-weekly-users/831979/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-01T22:25:47Z"
+    },
+    {
+      "id": "e7772e9b63a9c1b9f965",
+      "title": "TikTok US reports generating $81B in economic value",
+      "url": "https://www.socialmediatoday.com/news/tiktok-us-reports-generating-81b-in-economic-value/831978/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-01T22:20:33Z"
+    },
+    {
+      "id": "4412d16c31c18e235405",
+      "title": "YouTube updates Shorts algorithm to put more focus on original content",
+      "url": "https://www.socialmediatoday.com/news/youtube-updates-shorts-algorithm-to-put-more-focus-on-original-content/831976/",
+      "source": "Social Media Today",
+      "domain": "socialmediatoday.com",
+      "publishedAt": "2026-10-01T21:13:07Z"
+    },
+    {
+      "id": "cc43b1ba5dd540f719d5",
+      "title": "Columbia Journalism School will pause its M.A. program (and launch an online degree)",
+      "url": "https://www.niemanlab.org/2026/10/columbia-journalism-school-will-temporarily-pause-its-m-a-program-and-launch-an-online-degree/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-10-01T19:34:07Z"
+    },
+    {
+      "id": "7c026985eca4c3294f8f",
+      "title": "AI Citations Spark ‘Renaissance Moment for PR and Communications’",
+      "url": "https://prsay.prsa.org/2026/10/01/ai-citations-spark-renaissance-moment-for-pr-and-communications/?utm_source=rss&utm_medium=rss&utm_campaign=ai-citations-spark-renaissance-moment-for-pr-and-communications",
+      "source": "PRsay",
+      "domain": "prsa.org",
+      "publishedAt": "2026-10-01T19:27:52Z"
+    },
+    {
+      "id": "4648bb0bd2b2235c6d9c",
+      "title": "California’s big local news bill becomes law",
+      "url": "https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-10-01T18:44:51Z"
+    },
+    {
+      "id": "efdf959508317c84817e",
+      "title": "Two 23-year-olds used AI to create a daily audio briefing. It’s now the top news app in Argentina.",
+      "url": "https://www.niemanlab.org/2026/10/two-23-year-olds-used-ai-to-create-a-daily-audio-briefing-its-now-the-top-news-app-in-argentina/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-10-01T18:13:12Z"
+    },
+    {
+      "id": "d30ed456f68d50519099",
+      "title": "‘We need to lift voices’: Highlights from Ragan’s 2026 Nonprofit Communications and CSR Awards",
+      "url": "https://www.prdaily.com/we-need-to-lift-voices-highlights-from-ragans-2026-nonprofit-communications-and-csr-awards/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-01T14:05:59Z"
+    },
+    {
+      "id": "1152592c701b1fc92c19",
+      "title": "Cornell, the DA and the communication choices that deepened a crisis",
+      "url": "https://www.prdaily.com/cornell-the-da-and-the-communication-choices-that-deepened-a-crisis/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-01T14:00:10Z"
+    },
+    {
+      "id": "4831d65dbb8e70b2aba2",
+      "title": "The ‘Twitter killers’ never replaced Twitter. Here’s what happened instead.",
+      "url": "https://www.prdaily.com/the-twitter-killers-never-replaced-twitter-heres-what-happened-instead/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-01T10:00:43Z"
+    },
+    {
+      "id": "5b61cd56c088d8b76cb0",
+      "title": "These are the biggest changes communicators have seen in their careers",
+      "url": "https://www.prdaily.com/these-are-the-biggest-changes-communicators-have-seen-in-their-careers/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-10-01T10:00:19Z"
+    },
+    {
+      "id": "cb05e62e5837331e2ca7",
+      "title": "Federal appeals court upholds Thomson Reuters’ landmark AI copyright win",
+      "url": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-30T21:04:26Z"
+    },
+    {
+      "id": "e3f391c68546c057e5dc",
+      "title": "How publishers are rethinking audience engagement: Five takeaways from the Future of Media Technology Conference",
+      "url": "https://www.niemanlab.org/2026/09/how-publishers-are-rethinking-audience-engagement-five-takeaways-from-the-future-of-media-technology-conference/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-30T19:31:50Z"
+    },
+    {
+      "id": "9d0cd3e06e9ac75dcc59",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-30T17:45:00Z"
+    },
+    {
+      "id": "31645be4ed11aff625d2",
+      "title": "The Scoop: ‘The right thing to do’: Six Flags addresses shutdown of popular roller coaster",
+      "url": "https://www.prdaily.com/the-scoop-the-right-thing-to-do-six-flags-addresses-shutdown-of-popular-roller-coaster/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-30T14:13:48Z"
+    },
+    {
+      "id": "23694da7b1ffd08b707e",
+      "title": "WhatsApp adds new parental controls for teen accounts",
+      "url": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-30T13:50:16Z"
+    },
+    {
+      "id": "46c66c78493b2e71d178",
+      "title": "4 CCO trends communicators should watch",
+      "url": "https://www.prdaily.com/4-cco-trends-communicators-should-watch/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-30T10:00:27Z"
+    },
+    {
+      "id": "476f520c86b92b1dbe92",
+      "title": "Great pitches help reporters understand stories",
+      "url": "https://www.prdaily.com/great-pitches-help-reporters-understand-stories/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-30T10:00:06Z"
+    },
+    {
+      "id": "b0b11b52a58012ff7542",
+      "title": "NewsMatch will shift from a year-end campaign to a year-round model",
+      "url": "https://www.niemanlab.org/2026/09/newsmatch-will-shift-from-a-year-end-campaign-to-a-year-round-model/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-29T20:19:26Z"
+    },
+    {
+      "id": "502ba61c9ccd8d659b16",
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-29T18:48:03Z"
+    },
+    {
+      "id": "17d2363108a63063105d",
+      "title": "NPR, the quintessential audio news brand, adapts to a video-first future",
+      "url": "https://www.niemanlab.org/2026/09/npr-the-quintessential-audio-news-brand-adapts-to-a-video-first-future/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-29T18:24:39Z"
+    },
+    {
+      "id": "4ba761543d394087f5f8",
+      "title": "Social media updates and new features to know this week",
+      "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-60/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-29T12:58:56Z"
+    },
+    {
+      "id": "e5433c7421f4692b3fcd",
+      "title": "4 ways communicators can prepare for AI-driven reputation risk",
+      "url": "https://www.prdaily.com/4-ways-communicators-can-prepare-for-ai-driven-reputation-risk/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-29T10:00:53Z"
+    },
+    {
+      "id": "b61a7a2693c77e7ec44f",
+      "title": "A lack of professional AI guidelines leads to feelings of “AI shame,” a new study finds",
+      "url": "https://www.niemanlab.org/2026/09/a-lack-of-professional-ai-guidelines-leads-to-feelings-of-ai-shame-a-new-study-finds/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-28T19:55:29Z"
+    },
+    {
+      "id": "28a4b03c307fe1dd23d0",
+      "title": "OpenAI doubles support for Lenfest’s AI and local news fellowships",
+      "url": "https://www.niemanlab.org/2026/09/openai-doubles-support-for-lenfests-ai-and-local-news-fellowships/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-28T17:02:39Z"
+    },
+    {
+      "id": "79d6ea8571a34bd43eae",
+      "title": "How to get ahead of the holiday social media customer service rush with Sprout",
+      "url": "https://sproutsocial.com/insights/holiday-customer-service/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-28T14:30:27Z"
+    },
+    {
+      "id": "cd813cb21bc223f1f2de",
+      "title": "Upholding Ethical Communications Standards in the Age of AI",
+      "url": "https://prsay.prsa.org/2026/09/28/upholding-ethical-communications-standards-in-the-age-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=upholding-ethical-communications-standards-in-the-age-of-ai",
+      "source": "PRsay",
+      "domain": "prsa.org",
+      "publishedAt": "2026-09-28T14:25:11Z"
+    },
+    {
+      "id": "e982b59e88b547bccc90",
+      "title": "The Scoop: Eli Lilly defends presence at Vogue World",
+      "url": "https://www.prdaily.com/the-scoop-eli-lilly-defends-presence-at-vogue-world/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-28T14:23:48Z"
+    },
+    {
+      "id": "0fc9573cdd4de9f1af0c",
+      "title": "Taylor Swift’s latest album announcement raises a question about audience fatigue",
+      "url": "https://www.prdaily.com/taylor-swifts-latest-album-announcement-raises-a-question-about-audience-fatigue/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-28T10:00:04Z"
+    },
+    {
+      "id": "a6a781ad0b1bc5597feb",
+      "title": "‘I’m a strategist.’ But are you?",
+      "url": "https://www.prdaily.com/im-a-strategist-but-are-you/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-28T10:00:02Z"
+    },
+    {
+      "id": "dbadc50807c5f3600ef7",
+      "title": "PR Daily unveils the 2026 Top Agencies honorees and finalists",
+      "url": "https://www.prdaily.com/pr-daily-unveils-the-2026-top-agencies-honorees-and-finalists/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-28T08:00:32Z"
+    },
+    {
+      "id": "56e787e129aad1a6b19e",
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-26T20:24:45Z"
+    },
+    {
+      "id": "dd2d41b6e78d03c1b564",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-26T17:44:00Z"
+    },
+    {
+      "id": "7b2e6478ca7cc555e523",
+      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-25T20:33:58Z"
+    },
+    {
+      "id": "2cd7844d24860465a4d1",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-25T16:16:52Z"
+    },
+    {
+      "id": "99c26d2b3ec1cd612620",
+      "title": "The Scoop: OpenAI needs better comms. They’ve been looking for a CCO for 9 months.",
+      "url": "https://www.prdaily.com/the-scoop-openai-needs-better-comms-theyve-been-looking-for-a-cco-for-9-months/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-25T14:43:19Z"
+    },
+    {
+      "id": "3058b255e04126f06706",
+      "title": "The Boston Globe’s Western Mass lesbian bar story pulled in “several thousand” new subscribers in about 72 hours",
+      "url": "https://www.niemanlab.org/2026/09/the-boston-globes-western-mass-lesbian-bar-story-pulled-in-several-thousand-new-subscribers-in-four-days/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-25T14:33:35Z"
+    },
+    {
+      "id": "4c6e5030178e03b09309",
+      "title": "Here’s what employees really need during any change",
+      "url": "https://www.prdaily.com/heres-what-employees-really-need-during-any-change/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-25T10:00:22Z"
+    },
+    {
+      "id": "bebade42aec044f3f5c4",
+      "title": "2026 holiday shopping trends: Tariffs, trust and timing",
+      "url": "https://sproutsocial.com/insights/holiday-shopping-trends/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-24T14:00:35Z"
+    },
+    {
+      "id": "ed2e98bf264b63d129e1",
+      "title": "When disaster strikes, newsrooms scramble. A new website aims to help tame the chaos.",
+      "url": "https://www.niemanlab.org/2026/09/when-disaster-strikes-newsrooms-scramble-a-new-website-aims-to-help-tame-the-chaos/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-24T13:44:47Z"
+    },
+    {
+      "id": "bdd480665ff98b03b02d",
+      "title": "She changed everything by saying ‘thank you’",
+      "url": "https://www.prdaily.com/she-changed-everything-by-saying-thank-you/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-24T10:00:47Z"
+    },
+    {
+      "id": "e2fa9370097745dec2a0",
+      "title": "What makes for a great brand partnership",
+      "url": "https://www.prdaily.com/what-makes-for-a-great-brand-partnership/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-24T10:00:17Z"
+    },
+    {
+      "id": "646aaaaad9bfb3f494da",
+      "title": "Proving the ROI of AI-Powered Employee Experience",
+      "url": "https://www.prdaily.com/proving-the-roi-of-ai-powered-employee-experience/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-24T10:00:10Z"
+    },
+    {
+      "id": "866c5688bd798c2c1cd0",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-23T23:39:44Z"
+    },
+    {
+      "id": "01786e6df0350690088a",
+      "title": "If We Care About Crisis and Reputation, We Need to Care About Ethics",
+      "url": "https://prsay.prsa.org/2026/09/23/if-we-care-about-crisis-and-reputation-we-need-to-care-about-ethics/?utm_source=rss&utm_medium=rss&utm_campaign=if-we-care-about-crisis-and-reputation-we-need-to-care-about-ethics",
+      "source": "PRsay",
+      "domain": "prsa.org",
+      "publishedAt": "2026-09-23T15:01:03Z"
+    },
+    {
+      "id": "69e030a3f107e9bc3a1a",
+      "title": "The Scoop: DoorDash bluntly admits ‘we screwed up’ in $131.5 million settlement",
+      "url": "https://www.prdaily.com/the-scoop-doordash-bluntly-admits-we-screwed-up-in-131-5-million-settlement/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-23T14:40:04Z"
+    },
+    {
+      "id": "43e9eab57e506361a5dc",
+      "title": "Salary Survey 2026: Pay is stagnant. Workload isn’t.",
+      "url": "https://www.prdaily.com/salary-survey-2026-pay-is-stagnant-workload-isnt/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-23T13:28:14Z"
+    },
+    {
+      "id": "51dcfa5cb9314504cdb1",
+      "title": "The 3-question test that makes communications clearer",
+      "url": "https://www.prdaily.com/the-3-question-test-that-makes-communications-clearer/",
+      "source": "PR Daily",
+      "domain": "prdaily.com",
+      "publishedAt": "2026-09-23T11:00:20Z"
+    },
+    {
+      "id": "e74d38f2c46779bcd7ed",
+      "title": "Discord’s age-verification era is upon us, despite community backlash",
+      "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-23T03:31:12Z"
+    },
+    {
+      "id": "0e4841e68bdba06c13c9",
+      "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+      "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-22T14:00:00Z"
+    },
+    {
+      "id": "241bc64120c302d80711",
+      "title": "David Ellison will get control of CNN after all (and don’t pretend an “independent editorial board” will mean otherwise)",
+      "url": "https://www.niemanlab.org/2026/09/david-ellison-will-get-control-of-cnn-after-all-and-dont-pretend-an-independent-editorial-board-will-mean-otherwise/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-21T19:32:42Z"
+    },
+    {
+      "id": "754e377782d90b697811",
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-21T17:45:35Z"
+    },
+    {
+      "id": "2c549dbb779ab09e3196",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "e3fbc059f72efaf1cb44",
+      "title": "New California law will penalize influencers who don’t disclose political ads",
+      "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-20T16:30:00Z"
+    },
+    {
+      "id": "985026d999b6173598c7",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-18T17:33:50Z"
+    },
+    {
+      "id": "08176e5b41163313ea98",
+      "title": "“An astonishing theft of unprecedented proportions”: Court records show what Microsoft and OpenAI actually thought about AI training",
+      "url": "https://www.niemanlab.org/2026/09/an-astonishing-theft-of-unprecedented-proportions-court-records-show-what-microsoft-and-openai-actually-thought-about-ai-training/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-18T14:50:42Z"
+    },
+    {
+      "id": "512d98986abc4ad45dfd",
+      "title": "Five independent climate journalists are teaming up with a “pop-up newsroom”",
+      "url": "https://www.niemanlab.org/2026/09/five-independent-climate-journalists-are-teaming-up-with-a-pop-up-newsroom/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-18T14:50:13Z"
+    },
+    {
+      "id": "eed8e91a0283411890e4",
+      "title": "Your Most Valuable AI Skill May Be Ethical Judgment",
+      "url": "https://prsay.prsa.org/2026/09/18/your-most-valuable-ai-skill-may-be-ethical-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=your-most-valuable-ai-skill-may-be-ethical-judgment",
+      "source": "PRsay",
+      "domain": "prsa.org",
+      "publishedAt": "2026-09-18T14:49:47Z"
+    },
+    {
+      "id": "9d28d48aa47fd83f6570",
+      "title": "It’s about social media discoverability, not followers",
+      "url": "https://sproutsocial.com/insights/social-media-discoverability/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-17T19:24:58Z"
+    },
+    {
+      "id": "54deb7ac38b2a16c1120",
+      "title": "News consumers are wary of most AI use in local news, a Chicago-based report finds",
+      "url": "https://www.niemanlab.org/2026/09/news-consumers-are-wary-of-most-ai-use-in-local-news-a-chicago-based-report-finds/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-17T18:55:16Z"
+    },
+    {
+      "id": "bab1fd727180a40100d9",
+      "title": "New York Times training editor: Take these four steps before you roll out new things",
+      "url": "https://www.niemanlab.org/2026/09/new-york-times-training-editor-take-these-four-steps-before-you-roll-out-new-things/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-17T18:41:25Z"
+    },
+    {
+      "id": "4d51244af2a4b622d3c1",
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-17T16:34:36Z"
+    },
+    {
+      "id": "50e5dc4c43e023af9988",
+      "title": "Noise wants to help everyday people become paid content creators",
+      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-16T21:35:00Z"
+    },
+    {
+      "id": "613a7c1a19ad6c0b2aa6",
+      "title": "X will now let US users trade via Cashtags",
+      "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-16T19:57:22Z"
+    },
+    {
+      "id": "807ad690d035d8bdb198",
+      "title": "The Library Newsroom Project could be coming to a library near you",
+      "url": "https://www.niemanlab.org/2026/09/the-library-newsroom-project-could-be-coming-to-a-library-near-you/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-16T18:56:32Z"
+    },
+    {
+      "id": "9093153ae5792778d31f",
+      "title": "The Atlantic is getting more subscribers from Google traffic, even as referrals fall",
+      "url": "https://www.niemanlab.org/2026/09/the-atlantic-is-getting-more-subscribers-from-google-traffic-even-as-referrals-fall/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-16T17:15:30Z"
+    },
+    {
+      "id": "c05ba9716c85ed04787d",
+      "title": "Latino Voices: Don’t Just Get Loud — Get In",
+      "url": "https://prsay.prsa.org/2026/09/16/latino-voices-dont-just-get-loud-get-in/?utm_source=rss&utm_medium=rss&utm_campaign=latino-voices-dont-just-get-loud-get-in",
+      "source": "PRsay",
+      "domain": "prsa.org",
+      "publishedAt": "2026-09-16T15:01:56Z"
+    },
+    {
+      "id": "466c8078bcfadac7cc8a",
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-16T14:24:58Z"
+    },
+    {
+      "id": "dc0cfbabd722540fcea8",
+      "title": "How to break through social media saturation in a world of overwhelm",
+      "url": "https://sproutsocial.com/insights/social-media-saturation/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-16T13:31:15Z"
+    },
+    {
+      "id": "15b43500322375354781",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch Social",
+      "domain": "techcrunch.com",
+      "publishedAt": "2026-09-15T20:12:53Z"
+    },
+    {
+      "id": "bde07285e443b88b1db9",
+      "title": "Protein grams and retirement plans: Service journalism enters its next era",
+      "url": "https://www.niemanlab.org/2026/09/protein-grams-and-retirement-plans-service-journalism-enters-its-next-era/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-15T19:17:09Z"
+    },
+    {
+      "id": "0e6f3169ad8020013cbc",
+      "title": "Is science journalism dying? Comparing a “science crash” 40 years ago to today",
+      "url": "https://www.niemanlab.org/2026/09/is-science-journalism-dying-comparing-a-science-crash-40-years-ago-to-today/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-15T16:14:44Z"
+    },
+    {
+      "id": "2776bffb23070753e796",
+      "title": "Would you send it to the group chat? Sports creator Frank Michael Smith on finding the stories worth telling",
+      "url": "https://www.niemanlab.org/2026/09/would-you-send-it-in-the-group-chat-sports-creator-frank-michael-smith-on-finding-the-stories-worth-telling/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-14T19:52:50Z"
+    },
+    {
+      "id": "062ea3b2627f83355365",
+      "title": "The best brands on Instagram in 2026 (so far)",
+      "url": "https://sproutsocial.com/insights/best-brands-on-instagram/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-14T19:33:54Z"
+    },
+    {
+      "id": "b433e45ad617303ce871",
+      "title": "The golden age wasn’t so golden",
+      "url": "https://www.niemanlab.org/2026/09/the-golden-age-wasnt-so-golden/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-14T16:31:52Z"
+    },
+    {
+      "id": "2d58a46ff3c58bdc9ad2",
+      "title": "AI on the Political Campaign Trail: Lessons for Communicators",
+      "url": "https://prsay.prsa.org/2026/09/14/ai-on-the-political-campaign-trail-lessons-for-communicators/?utm_source=rss&utm_medium=rss&utm_campaign=ai-on-the-political-campaign-trail-lessons-for-communicators",
+      "source": "PRsay",
+      "domain": "prsa.org",
+      "publishedAt": "2026-09-14T14:16:40Z"
+    },
+    {
+      "id": "af7f2234aacd1b2c79c6",
+      "title": "How to measure social media with Google Analytics (GA4)",
+      "url": "https://sproutsocial.com/insights/google-analytics-social-media/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-11T19:51:15Z"
+    },
+    {
+      "id": "10f8ea739c029ce51313",
+      "title": "The Trump administration killed Climate.gov. A new website is resurrecting it.",
+      "url": "https://www.niemanlab.org/2026/09/the-trump-administration-killed-climate-gov-a-new-website-is-resurrecting-it/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-10T16:58:25Z"
+    },
+    {
+      "id": "c3a955f99a588c9990dc",
+      "title": "“Many have said it couldn’t be done”: Local news site Lookout Santa Cruz is profitable thanks to ads and memberships",
+      "url": "https://www.niemanlab.org/2026/09/many-have-said-it-couldnt-be-done-local-news-site-lookout-santa-cruz-is-profitable-thanks-to-ads-and-memberships/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-10T16:22:18Z"
+    },
+    {
+      "id": "02d17f214eeccc7aa271",
+      "title": "Will social media bans reshape the future of marketing?",
+      "url": "https://sproutsocial.com/insights/social-media-ban/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-10T14:00:46Z"
+    },
+    {
+      "id": "60b69d09470441675dee",
+      "title": "Apple launches a new way to prove a photo was shot with an iPhone (not generated by AI)",
+      "url": "https://www.niemanlab.org/2026/09/apple-launches-a-new-way-to-prove-a-photo-was-shot-with-an-iphone-not-generated-by-ai/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-09T18:46:06Z"
+    },
+    {
+      "id": "c9bf11ac84f49240b0bd",
+      "title": "Two years ago, Meta killed CrowdTangle. Can a new AI tool fill the void?",
+      "url": "https://www.niemanlab.org/2026/09/two-years-ago-meta-killed-crowdtangle-can-a-new-ai-tool-fill-the-void/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-09T17:59:22Z"
+    },
+    {
+      "id": "1aa785c8ec60994cd233",
+      "title": "The brand loyalty playbook: What it really is and how to build it",
+      "url": "https://sproutsocial.com/insights/brand-loyalty/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-09T17:52:09Z"
+    },
+    {
+      "id": "4299c40464b3debf61c9",
+      "title": "Beehiiv adds three new journalists to its media collective",
+      "url": "https://www.niemanlab.org/2026/09/beehiiv-adds-three-new-journalists-to-its-media-collective/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-09T15:16:59Z"
+    },
+    {
+      "id": "afb665ace0d7334fd63e",
+      "title": "At three years old, Deep South Today threads the needle between “lean and mean” and “aggressive expansion”",
+      "url": "https://www.niemanlab.org/2026/09/at-three-deep-south-today-threads-the-needle-between-lean-and-mean-and-aggressive-expansion/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-08T18:41:10Z"
+    },
+    {
+      "id": "a7a24d56bb10de657441",
+      "title": "Twenty years into the Facebook News Feed era, Australia wants to turn back the clock",
+      "url": "https://www.niemanlab.org/2026/09/twenty-years-into-the-facebook-news-feed-era-australia-wants-to-turn-back-the-clock/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-08T18:40:52Z"
+    },
+    {
+      "id": "c57937c4b1cf4ffe3297",
+      "title": "Halloween hashtags to kickoff #spookyseason",
+      "url": "https://sproutsocial.com/insights/halloween-hashtags/",
+      "source": "Sprout Social Insights",
+      "domain": "sproutsocial.com",
+      "publishedAt": "2026-09-08T16:39:43Z"
+    },
+    {
+      "id": "97b5fe5cfa51e507aaeb",
+      "title": "Stars and Stripes shows how government‑funded journalism can work — if it’s free to report the truth",
+      "url": "https://www.niemanlab.org/2026/09/stars-and-stripes-shows-how-government-funded-journalism-can-work-if-its-free-to-report-the-truth/",
+      "source": "Nieman Lab",
+      "domain": "niemanlab.org",
+      "publishedAt": "2026-09-08T13:29:54Z"
+    }
+  ],
+  "provider": "6 specialist publication feeds",
+  "fetchedAt": "2026-10-05T14:33:03.084130Z",
+  "sourceCount": 6,
+  "partial": false,
+  "unavailableSources": []
+}
